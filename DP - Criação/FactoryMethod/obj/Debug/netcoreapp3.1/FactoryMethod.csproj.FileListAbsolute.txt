@@ -1,0 +1,26 @@
+C:\Users\thiag\source\repos\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\thiag\source\repos\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\thiag\source\repos\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\thiag\source\repos\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\thiag\source\repos\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\thiag\source\repos\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\thiag\source\repos\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\thiag\source\repos\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\thiag\source\repos\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\thiag\source\repos\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache
