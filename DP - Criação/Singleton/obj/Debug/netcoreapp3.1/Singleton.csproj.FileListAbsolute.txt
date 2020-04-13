@@ -1,0 +1,13 @@
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
