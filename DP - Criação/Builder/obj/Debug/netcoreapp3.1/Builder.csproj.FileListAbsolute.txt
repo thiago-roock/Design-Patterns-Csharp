@@ -1,0 +1,13 @@
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Criação\builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
