@@ -1,0 +1,13 @@
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
