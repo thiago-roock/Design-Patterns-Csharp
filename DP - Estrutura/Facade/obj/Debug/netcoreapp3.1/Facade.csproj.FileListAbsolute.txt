@@ -1,0 +1,12 @@
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
+C:\Users\thiag\Documents\GitHub\Design Patterns C#\DP - Estrutura\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache
