@@ -1,4 +1,4 @@
-#  Design Patterns CSharp
+#  Design Patterns CSharp <img src="https://github.com/RDPodcasting/Design-Patterns-Csharp/blob/master/68747470733a2f2f617765736f6d652e72652f62616467652e737667.svg"></img>
  
 No mundo da programação orientada a objetos, conhecida também como **POO**, temos à característica de poder descobrir o *padrão de comportamento* de vários tipos de projetos diferentes, porém tão parecidos **estruturalmente**, com **problemas** e **acertos**, deveras semelhantes.
 
