@@ -25,15 +25,15 @@ Com isso surgiu os **Design Patterns** onde podemos abstrair esses *comportament
 - Bridge 🚡 
 - Composite 🌿
 - Flyweight 🍃
+- Decorator ☕
+- Proxy 🎱
+- Facade 📦
 
 ### Lista de Design Patterns sendo implementados
 
 - Command 👮
-- Decorator ☕
-- Facade 📦
 - Iterator ➿
 - Observer 😎
-- Proxy 🎱
 - State 💢
 - Strategy 💡
 - Template Method 📒
