@@ -6,10 +6,22 @@ namespace Proxy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("#### Acessando a Fase do jogo sem o Proxy ####");
-            FaseJogo fase = new FaseJogo();
-            Console.WriteLine(fase.Jogar());
+            ProxyFase proxy = new ProxyFase();
+
+
+
+            Console.WriteLine("#### Tentando acessar a Fase do jogo com Password incorreto ####");
+            Console.WriteLine(proxy.InformarPassword("456"));
+            Console.WriteLine(proxy.Jogar());
+
             Console.WriteLine();
+
+            Console.WriteLine("#### Tentando acessar a fase do jogo com password correto ####");
+            Console.WriteLine(proxy.InformarPassword("123"));
+            Console.WriteLine(proxy.Jogar());
+
+            Console.WriteLine();
+
             Console.ReadKey();
         }
     }
