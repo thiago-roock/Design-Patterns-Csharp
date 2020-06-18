@@ -6,7 +6,11 @@ namespace Proxy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("#### Acessando a Fase do jogo sem o Proxy ####");
+            FaseJogo fase = new FaseJogo();
+            Console.WriteLine(fase.Jogar());
+            Console.WriteLine();
+            Console.ReadKey();
         }
     }
 }
