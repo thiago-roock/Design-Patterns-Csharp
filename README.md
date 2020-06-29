@@ -29,6 +29,10 @@ Com isso surgiu os **Design Patterns** onde podemos abstrair esses *comportament
 - Proxy 🎱
 - Facade 📦
 
+#### Comportamento
+- Template Method 📒
+
+
 ### Lista de Design Patterns sendo implementados
 
 - Command 👮
@@ -36,7 +40,6 @@ Com isso surgiu os **Design Patterns** onde podemos abstrair esses *comportament
 - Observer 😎
 - State 💢
 - Strategy 💡
-- Template Method 📒
 - Visitor 🏃
 - Mediator 👽
 
