@@ -31,6 +31,7 @@ Com isso surgiu os **Design Patterns** onde podemos abstrair esses *comportament
 
 #### Comportamento
 - Template Method 📒
+- interpreter ➿
 
 
 ### Lista de Design Patterns sendo implementados
