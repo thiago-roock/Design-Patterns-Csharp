@@ -4,6 +4,7 @@ No mundo da programação orientada a objetos, conhecida também como **POO**, t
 
 Com isso surgiu os **Design Patterns** onde podemos abstrair esses *comportamentos*, *características* e *padrões*, utilizando padrões **conceituais** e **estruturais** para construir nossos projetos pessoais ou profissionais de forma assertiva.
 
+[![CodeFactor](https://www.codefactor.io/repository/github/rdpodcasting/design-patterns-csharp/badge)](https://www.codefactor.io/repository/github/rdpodcasting/design-patterns-csharp)
 
 ### Tipos de Design Patterns
 
