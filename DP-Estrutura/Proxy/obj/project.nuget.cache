@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KvzRj8szpeoG6kYxcpTs/sESK/dXmRHtZzl3lwiW3/E5KWfHmk12dEUhjV7PHqoj5fHs3ZnHCVc1MkWzZ/Qbuw==",
+  "dgSpecHash": "ap9bBbrh3TM8sKugDJtaZmo6XatZHDYNtUdP0V+aU8BBUOUTMgdk4Rg+I/U8AAPJMwIFEmyPa9NQn2QHfZQdAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thiag\\Documents\\GitHub\\Design Patterns C#\\DP - Estrutura\\Proxy\\Proxy.csproj",
+  "projectFilePath": "/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/Proxy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

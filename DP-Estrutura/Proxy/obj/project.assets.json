@@ -8,26 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\thiag\\.nuget\\packages\\": {}
+    "/home/thiago/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiag\\Documents\\GitHub\\Design Patterns C#\\DP - Estrutura\\Proxy\\Proxy.csproj",
+      "projectUniqueName": "/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/Proxy.csproj",
       "projectName": "Proxy",
-      "projectPath": "C:\\Users\\thiag\\Documents\\GitHub\\Design Patterns C#\\DP - Estrutura\\Proxy\\Proxy.csproj",
-      "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiag\\Documents\\GitHub\\Design Patterns C#\\DP - Estrutura\\Proxy\\obj\\",
+      "projectPath": "/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/Proxy.csproj",
+      "packagesPath": "/home/thiago/.nuget/packages/",
+      "outputPath": "/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/thiago/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
       }
     }
   }

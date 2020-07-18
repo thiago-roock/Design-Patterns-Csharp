@@ -1,0 +1,13 @@
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/bin/Debug/netcoreapp3.1/Proxy
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/bin/Debug/netcoreapp3.1/Proxy.deps.json
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/bin/Debug/netcoreapp3.1/Proxy.runtimeconfig.json
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/bin/Debug/netcoreapp3.1/Proxy.runtimeconfig.dev.json
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/bin/Debug/netcoreapp3.1/Proxy.dll
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/bin/Debug/netcoreapp3.1/Proxy.pdb
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/obj/Debug/netcoreapp3.1/Proxy.csprojAssemblyReference.cache
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/obj/Debug/netcoreapp3.1/Proxy.AssemblyInfoInputs.cache
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/obj/Debug/netcoreapp3.1/Proxy.AssemblyInfo.cs
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/obj/Debug/netcoreapp3.1/Proxy.csproj.CoreCompileInputs.cache
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/obj/Debug/netcoreapp3.1/Proxy.dll
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/obj/Debug/netcoreapp3.1/Proxy.pdb
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Estrutura/Proxy/obj/Debug/netcoreapp3.1/Proxy.genruntimeconfig.cache
