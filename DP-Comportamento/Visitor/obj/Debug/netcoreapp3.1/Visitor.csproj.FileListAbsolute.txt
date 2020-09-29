@@ -1,0 +1,15 @@
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Visitor/obj/Debug/netcoreapp3.1/Visitor.csprojAssemblyReference.cache
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Visitor/obj/Debug/netcoreapp3.1/Visitor.AssemblyInfoInputs.cache
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Visitor/obj/Debug/netcoreapp3.1/Visitor.AssemblyInfo.cs
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Visitor/obj/Debug/netcoreapp3.1/Visitor.csproj.CoreCompileInputs.cache
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Visitor/bin/Debug/netcoreapp3.1/Visitor
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Visitor/bin/Debug/netcoreapp3.1/Visitor.deps.json
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Visitor/bin/Debug/netcoreapp3.1/Visitor.runtimeconfig.json
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Visitor/bin/Debug/netcoreapp3.1/Visitor.runtimeconfig.dev.json
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Visitor/bin/Debug/netcoreapp3.1/Visitor.dll
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Visitor/bin/Debug/netcoreapp3.1/Visitor.pdb
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Visitor/bin/Debug/netcoreapp3.1/Figgle.dll
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Visitor/obj/Debug/netcoreapp3.1/Visitor.csproj.CopyComplete
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Visitor/obj/Debug/netcoreapp3.1/Visitor.dll
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Visitor/obj/Debug/netcoreapp3.1/Visitor.pdb
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Visitor/obj/Debug/netcoreapp3.1/Visitor.genruntimeconfig.cache
