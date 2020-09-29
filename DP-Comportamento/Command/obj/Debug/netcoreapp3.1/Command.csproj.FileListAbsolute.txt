@@ -1,0 +1,15 @@
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Command/obj/Debug/netcoreapp3.1/Command.csprojAssemblyReference.cache
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Command/obj/Debug/netcoreapp3.1/Command.AssemblyInfoInputs.cache
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Command/obj/Debug/netcoreapp3.1/Command.AssemblyInfo.cs
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Command/obj/Debug/netcoreapp3.1/Command.csproj.CoreCompileInputs.cache
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Command/bin/Debug/netcoreapp3.1/Command
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Command/bin/Debug/netcoreapp3.1/Command.deps.json
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Command/bin/Debug/netcoreapp3.1/Command.runtimeconfig.json
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Command/bin/Debug/netcoreapp3.1/Command.runtimeconfig.dev.json
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Command/bin/Debug/netcoreapp3.1/Command.dll
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Command/bin/Debug/netcoreapp3.1/Command.pdb
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Command/bin/Debug/netcoreapp3.1/Figgle.dll
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Command/obj/Debug/netcoreapp3.1/Command.csproj.CopyComplete
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Command/obj/Debug/netcoreapp3.1/Command.dll
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Command/obj/Debug/netcoreapp3.1/Command.pdb
+/home/thiago/Documentos/Github/Design-Patterns-Csharp/DP-Comportamento/Command/obj/Debug/netcoreapp3.1/Command.genruntimeconfig.cache
