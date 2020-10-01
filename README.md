@@ -37,6 +37,7 @@ Com isso surgiu os **Design Patterns** onde podemos abstrair esses *comportament
 - Observer 😎
 - Strategy 💡
 - Visitor 🏃
+- Chain of Responsability
 
 ### Lista de Design Patterns sendo implementados
 
