@@ -33,15 +33,14 @@ Com isso surgiu os **Design Patterns** onde podemos abstrair esses *comportament
 #### Comportamento
 - Template Method 📒
 - interpreter ➿
-
+- Command 👮
+- Observer 😎
+- Strategy 💡
+- Visitor 🏃
 
 ### Lista de Design Patterns sendo implementados
 
-- Command 👮
 - Iterator ➿
-- Observer 😎
 - State 💢
-- Strategy 💡
-- Visitor 🏃
 - Mediator 👽
 
